@@ -4,7 +4,7 @@ This repository was created to let users report potential issues in the [Soybean
 
 Examples of issues that can be reported include:
 
-1. The "body part" classification for a particular sample is inaccurate.
+1. A metadata field is inaccurate for a particular sample.
 2. A page of the web application does not work as expected.
 3. The web application is off. 
 
